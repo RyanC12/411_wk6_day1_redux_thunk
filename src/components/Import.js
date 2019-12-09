@@ -11,7 +11,6 @@ import DeleteIcon from '@material-ui/icons/Delete'
 
 
 const Import = (props) => {
-    // fill out this component
 
     return (
         <Container>
